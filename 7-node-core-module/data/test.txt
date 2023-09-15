@@ -1,0 +1,1 @@
+ini adalah data string asynchronous dan data yang sebelumnya akan di timpa
